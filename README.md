@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Augustine
-- 👀 I’m interested in game design/web development
-- 🌱 I’m currently working on a indie game and making videos on YouTube (https://www.youtube.com/@BitByteBit_)
+- 👀 I am a Full Stack Engineer
+- 🌱 I love doing hobby projects in my spare time (https://www.youtube.com/@BitByteBit_)
 - 💞️ I’m ALWAYS looking to collaborate on random fun projects
 - 📫e-mail: adam.n.augustine@gmail.com
 - 📫discord: BitByteBit#9491
